@@ -28,6 +28,7 @@
 
 header,
 h1,
+h2,
 nav,
 .list-comment {
   font-family: "Kaushan Script", cursive, sans-serif;
@@ -99,4 +100,14 @@ main {
   overflow: hidden;
   white-space: nowrap;
   text-overflow: ellipsis;
+}
+
+.all-lists {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.form {
+  width: 300px;
+  margin: 0 auto;
 }
